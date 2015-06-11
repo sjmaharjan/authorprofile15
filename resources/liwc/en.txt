@@ -1,9 +1,0 @@
-Pronoun,anybod*,anyone*,anything,everybod*,everyone*,everything*,hed,he'd,her,hers,herself,hes,he's,him,himself,his,i,Id,I'd,I'll,Im,I'm,it,itd,it'd,itll,it'll,its,it's,itself,ive,I've,lets,let's,me,mine,my,myself,nobod*,oneself,other,others,our,ours,ourselves,she,she'd,she'll,shes,she's,somebod*,someone*,something*,somewhere,stuff,that,thatd,that'd,thatll,that'll,thats,that's,thee,their*,them,themselves,these,they,theyd,they'd,theyll,they'll,theyve,they've,thine,thing*,this,those,thou,thoust,thy,us,we,we'd,we'll,we're,weve,we've,what,whatever,whats,what's,which,whichever,who,whod,who'd,wholl,who'll,whom,whose,ya,yall,y'all,ye,you,youd,you'd,youll,you'll,your ,youre,you're,yours,youve,you've
-Ppron,hed,he'd,her,hers,herself,hes,he's,him,himself,his,i,Id,I'd,I'll,Im,I'm,ive,I've,lets,let's,me,mine,my,myself,oneself,our,ours,ourselves,she,she'd,she'll,shes,she's,thee,their*,them,themselves,they,theyd,they'd,theyll,they'll,theyve,they've,thine,thou,thoust,thy,us,we,we'd,we'll,we're,weve,we've,ya,yall,y'all,ye,you,youd,you'd,youll,you'll,your ,youre,you're,yours,youve,you've
-I,i,Id,I'd,I'll,Im,I'm,ive,I've,me,mine,my,myself
-We,lets,let's,our,ours,ourselves,us,we,we'd,we'll,we're,weve,we've
-You,thee,thine,thou,thoust,thy,ya,yall,y'all,ye,you,youd,you'd,youll,you'll,your,youre,you're,yours,youve,you've
-SheHe,he,hed,he'd,her,hers,herself,hes,he's,him,himself,his,oneself,she,she'd,she'll,shes,she's
-They,their*,them,themselves,they,theyd,they'd,theyll,they'll,theyve,they've
-Ipron,anybod*,anyone*,anything,everybod*,everyone*,everything*,it,itd,it'd,itll,it'll,its,it's,itself,nobod*,other,others,somebod*,someone*,something*,somewhere,stuff,that,thatd,that'd,thatll,that'll,thats,that's,these,thing*,this,those,what,whatever,whats,what's,which,whichever,who,whod,who'd,wholl,who'll,whom,whose
-Article,a,alot,an,the
